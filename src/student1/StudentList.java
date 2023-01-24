@@ -1,8 +1,9 @@
 
 package student1;
 
+import java.util.Scanner;
 
-public class StudentList {
+public class studentList {
     public static void main(String[] args){
         Student1 s1 = new Student1("s4","Ronak");
         

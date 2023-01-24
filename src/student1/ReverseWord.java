@@ -3,6 +3,13 @@ package student1;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * 
+ * @author sidrahmalik
+ * this comment will be used to test roll back
+ */
+
 public class ReverseWord {
       public static void main(String[] args){
         /*char[] myWord = new char[7];
